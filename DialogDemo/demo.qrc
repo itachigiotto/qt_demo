@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="document-open">file-explorer.png</file>
+    </qresource>
+</RCC>
